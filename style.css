@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background: linear-gradient(#34ebc6 0%,#7ed0de 100%);
+  color:#f28f8f;
+  font-size: 15px;
+}
+#img1 {
+  width:450px;
+  height:500px;
+}
